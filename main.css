@@ -1,0 +1,16 @@
+
+
+body {
+  background-color: khaki;
+  font-family: Lucida Console;
+  cursor: default;
+}
+
+input[type="number"] {
+  font-family: Arial;
+}
+
+button.clicking {
+  background: turquoise;
+  font-family: Lucida Console;
+}
